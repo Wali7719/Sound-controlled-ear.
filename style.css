@@ -1,0 +1,38 @@
+body {
+    background-color: #B0E0E6;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.top_section {
+    background-color: #2E2E2E;
+    color: #BFD8D2;
+}
+
+.top_section p {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #808080;
+    letter-spacing: 1.5px;
+}
+
+.content_section button {
+    margin-top: 25px;
+    font-weight: 600;
+    width: 140px;
+}
+
+.top_section h2 {
+    letter-spacing: 4px;
+}
+
+.copy_right_footer {
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    width:100%;
+    font-size:18px;
+    background-color: azure;
+    line-height: 3;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 5px rgb(112, 111, 111);
+}
